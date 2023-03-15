@@ -47,7 +47,7 @@
 ## Dokumentasi 
 [Tutorial Lainnya](https://github.com/nelsenpro/frame/blob/main/3/README.md)
 ## Hore.!! Kamu adalah Developer nya...
-[Edit CSS Code](https://drive.google.com/file/d/1JatzVvZTtn-strvNTT_-Tv_MIc7zmBAo/view?usp=drivesdk)
+[Edit CSS Code](https://drive.google.com/file/d/1JatzVvZTtn-strvNTT_-Tv_MIc7zmBAo/view?usp=drivesdk) | 
 [Edit JS Code](https://drive.google.com/file/d/17QViFw4pheKAHN2M3mWS1NYXjxuVWwve/view?usp=drivesdk)
 ```txt
 https://drive.google.com/drive/folders/1JV_-Etbssvo6ZtmECErUTLjvCI4JB16Z
