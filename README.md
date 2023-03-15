@@ -10,13 +10,20 @@
 | Lisensi | GNU GPL 3 |
 
 ## Mulai
+### CDN
 ```html
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.css" integrity="sha384-GXwBi8p5+kJA01YItxQbfx7B8j5W3XE4874vjPgyuENkwxPajJ3qPpIE36eIPAXv" crossorigin="anonymous">
 <!-- JS -->
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.js" defer="true" integrity="sha384-mmbm6eUwcXeG8ujycrAHzDJUAmBdzQe6MRlr5FpuIbx9SMmiftdN86tccYvMNLhE" crossorigin="anonymous"></script>
 ```
-
+### GDrive & SS
+```html
+<!--CSS -->
+    <link rel="stylesheet" href="https://drive.google.com/uc?export=view&id=1JFnlyH1Ipt-IfdCYY-mu-Dz73g1bG8oj" type="text/css" media="all" />
+    <!--JS -->
+    <script src="https://static.staticsave.com/frame/f.js" defer="true" integrity="sha384-mmbm6eUwcXeG8ujycrAHzDJUAmBdzQe6MRlr5FpuIbx9SMmiftdN86tccYvMNLhE" crossorigin="anonymous"></script>
+```
 ## Starter Template
 ```html
 <!DOCTYPE html>
