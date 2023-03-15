@@ -27,19 +27,23 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <title>Document</title>
 <!--CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(1).min.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.css" type="text/css" media="all" />
 <!--JS -->
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
 <h1>Hello World</h1>
 </body>
 </html>
 ```
+
+## Dokumentasi 
 [Tutorial Lainnya](https://github.com/nelsenpro/frame/blob/main/3/README.md)
-## Join :: Dev+ Github Tokens
+## Hore.!! Kamu adalah Developer nya...
+[Edit CSS Code](https://drive.google.com/file/d/1JatzVvZTtn-strvNTT_-Tv_MIc7zmBAo/view?usp=drivesdk)
+[Edit JS Code](https://drive.google.com/file/d/17QViFw4pheKAHN2M3mWS1NYXjxuVWwve/view?usp=drivesdk)
 ```txt
-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
+https://drive.google.com/drive/folders/1JV_-Etbssvo6ZtmECErUTLjvCI4JB16Z
 ```
 
 ## Creator
