@@ -1,5 +1,8 @@
 # Framecss CSS Framework
 ## Framecss
+
+[Dokumentasi](http://bit.ly/3n254s1)
+
 <p align="">Framecss adalah CSS Framework yang Menyediakan berbagai macam library CSS untuk keperluan Desain Aplikasi Web <i>Responsible</i></p>
 
 ## Status
@@ -45,7 +48,7 @@
 ```
 
 ## Dokumentasi 
-[Tutorial Lainnya](https://github.com/nelsenpro/frame/blob/main/3/README.md)
+[Lihat Dokumentasi](http://bit.ly/3n254s1)
 ## Hore.!! Kamu adalah Developer nya...
 [Edit CSS Code](https://drive.google.com/file/d/1JatzVvZTtn-strvNTT_-Tv_MIc7zmBAo/view?usp=drivesdk) | 
 [Edit JS Code](https://drive.google.com/file/d/17QViFw4pheKAHN2M3mWS1NYXjxuVWwve/view?usp=drivesdk)
