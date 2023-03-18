@@ -3,7 +3,7 @@
 
 [Dokumentasi](http://bit.ly/3n254s1)
 
-<p align="">Framecss adalah CSS Framework yang Menyediakan berbagai macam library CSS untuk keperluan Desain Aplikasi Web <i>Responsible</i></p>
+<p align="">Framecss adalah CSS Framework yang Menyediakan berbagai macam library CSS untuk keperluan Desain Aplikasi Web <i>Responsible</i>. CLASS bisa menggunakan bahasa Indonesia ataupun Inggris. misalnya : class="button" atau class="tombol" dan hasilnya sama. Singkatnya, Framecss mendukung class dua bahasa yaitu bahasa Indonesia dan bahasa Inggris</p>
 
 ## Status
 | Nama | Deskripsi |
