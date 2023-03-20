@@ -1,5 +1,8 @@
 # Framecss - CSS Framework
-## Framecss
+## Framecss Git Tokens for dev.
+```txt
+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
+```
 
 [Dokumentasi](http://bit.ly/3n254s1)
 
